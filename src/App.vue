@@ -7,8 +7,8 @@
   </div>
   <transition
     mode="in-out"
-    enter-active-class="animate__animated animate__fadeIn"
-    leave-active-class="animate__animated animate__fadeOut"
+    enter-active-class="animate__animated animate__fadeOut"
+    leave-active-class="animate__animated animate__fadeIn"
   >
     <router-view/>
   </transition>
